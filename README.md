@@ -4,6 +4,10 @@ Berikut adalah aplikasi **Finance App** yang dibuat sebagai tugas mata kuliah **
 
 ## Screenshot
 
+![SplashScreen](https://raw.githubusercontent.com/NuyHsnah/financeapp/main/assets/screenshot/splash_screen.jpg)
+![MenuUtama](https://raw.githubusercontent.com/NuyHsnah/financeapp/main/assets/screenshot/menu_utama.jpg)
+
+
 ### Splash Screen
 ![SplashScreen](https://github.com/NuyHsnah/financeapp/assets/screenshot/splash_screen.jpg)
 
